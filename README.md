@@ -8,7 +8,7 @@
 ### Usage
 
 ```shell
-./fuleCMS 10.10.10.10
+./fuleCMS.py 10.10.10.10
 ```
 
 ## Web shell
