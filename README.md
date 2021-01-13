@@ -1,8 +1,10 @@
-# fuleCMS 1.4 
+# FuleCMS 1.4 Exploit 
 # Python webshell + netcat reverse shell payload
 
 ## Main
 
-![](/assets/main/png)
+![](/assets/main.png)
 
-## shell
+## Webshell
+
+![](/assets/webshell.png)
