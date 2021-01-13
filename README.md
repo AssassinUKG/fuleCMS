@@ -15,6 +15,6 @@
 
 ![](/assets/webshell.png)
 
-## Reverse shll
+## Reverse shell
 
 ![](/assets/pwn.png)
