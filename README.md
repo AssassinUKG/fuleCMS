@@ -1,6 +1,10 @@
 # FuleCMS 1.4 Exploit 
 # Python webshell + netcat reverse shell payload
 
+## Download
+
+<a href="https://github.com/AssassinUKG/fuleCMS/raw/main/fuelCMS.py">Download here</a>
+
 ## Main
 
 ![](/assets/main.png)
