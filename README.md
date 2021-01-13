@@ -3,7 +3,7 @@
 
 ## Download
 
-<a href="https://github.com/AssassinUKG/fuleCMS/raw/main/fuelCMS.py">Download here</a>
+<a href="https://github.com/AssassinUKG/fuleCMS/raw/main/fuelCMS.py">Download : fuleCMS.py</a>
 
 ## Main
 
